@@ -1,0 +1,16 @@
+﻿  Deleted hot-reload file: C:\Unreal Projects\Campus3dMap\Plugins\MysqlDBUnrealengine4.26-main\Binaries\Win64\UE4Editor-MySQLConnectorUE4Plugin-0001.dll
+  Deleted hot-reload file: C:\Unreal Projects\Campus3dMap\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin-0001.lib
+  Building Campus3dMapEditor...
+  Using Visual Studio 2019 14.29.30154 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 8 processes...
+    [1/5] UE4Editor-Campus3dMap.lib
+       Creating library C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\UE4Editor-Campus3dMap.lib and object C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\UE4Editor-Campus3dMap.exp
+    [2/5] UE4Editor-MySQLConnectorUE4Plugin.lib
+       Creating library C:\Unreal Projects\Campus3dMap\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.lib and object C:\Unreal Projects\Campus3dMap\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.exp
+    [3/5] UE4Editor-MySQLConnectorUE4Plugin.dll
+       Creating library C:\Unreal Projects\Campus3dMap\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.suppressed.lib and object C:\Unreal Projects\Campus3dMap\Plugins\MysqlDBUnrealengine4.26-main\Intermediate\Build\Win64\UE4Editor\Development\MySQLConnectorUE4Plugin\UE4Editor-MySQLConnectorUE4Plugin.suppressed.exp
+    [4/5] UE4Editor-Campus3dMap.dll
+       Creating library C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\UE4Editor-Campus3dMap.suppressed.lib and object C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\UE4Editor-Campus3dMap.suppressed.exp
+    [5/5] Campus3dMapEditor.target
+  Total time in Parallel executor: 1.56 seconds
+  Total execution time: 2.42 seconds

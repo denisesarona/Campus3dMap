@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Campus3dMap-2610.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\Campus3dMapEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\Campus3dMap.cpp.obj"
+"C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\TrialClass.cpp.obj"
+"C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\Default.rc2.res"
+/OUT:"C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\UE4Editor-Campus3dMap-2610.lib"
+/INCLUDE:IMPLEMENT_MODULE_Campus3dMap

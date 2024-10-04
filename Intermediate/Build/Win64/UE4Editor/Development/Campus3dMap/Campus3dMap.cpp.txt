@@ -1,0 +1,2 @@
+C:\Unreal Projects\Campus3dMap\Intermediate\Build\Win64\UE4Editor\Development\Campus3dMap\Definitions.Campus3dMap.h
+C:\Unreal Projects\Campus3dMap\Source\Campus3dMap\Campus3dMap.h
