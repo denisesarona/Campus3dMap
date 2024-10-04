@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Campus3dMap.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{27337524-327A-4A32-A9ED-9B7C3FDA2CB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Campus3dMap.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Campus3dMapEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2B9DEA6C-9184-4A5B-A7A1-9B7E89BBC939}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{3536C8F0-7D79-46E4-9D0E-E35BA3FDCAD1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main">
+      <UniqueIdentifier>{9EF8F1FD-C0B5-4269-861D-7B996B9D4B19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source">
+      <UniqueIdentifier>{FC3C826D-D850-42B3-AAD6-5CFC0808493B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin">
+      <UniqueIdentifier>{74B6164F-4D53-4AEE-9B66-DF08320F059F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\MySQLConnectorUE4Plugin.Build.cs">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin</Filter>
+    </None>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Private">
+      <UniqueIdentifier>{2B408D6A-3C31-4521-8FD8-9BCAABE20F53}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Private\MySQLConnection.cpp">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Private\MySQLConnectorUE4Plugin.cpp">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Private\MySQLDatabase.cpp">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public">
+      <UniqueIdentifier>{BCC580B2-C7E5-4405-A9DD-1B96119CDD39}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public\MySQLConnection.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public\MySQLConnectorStructs.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public\MySQLConnectorUE4Plugin.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public\MySQLDatabase.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\MySQLConnectorUE4Plugin.uplugin">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main</Filter>
+    </None>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Resources">
+      <UniqueIdentifier>{CBECEFCD-6C83-4B8B-8A72-29C201DE9727}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Resources\Icon128.png">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty">
+      <UniqueIdentifier>{828A58E1-64FA-478A-AD55-DB56849892B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs">
+      <UniqueIdentifier>{521B55C3-87F5-48C8-8482-BFFF207C3A43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDBConnectorLibs.Build.cs">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs</Filter>
+    </None>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C">
+      <UniqueIdentifier>{E31EC382-88A7-4C98-9D7C-79F6BEA9919F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include">
+      <UniqueIdentifier>{2CD990A9-90EB-4627-8221-AA3475834C8C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\config-win.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\dbug.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\errmsg.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\getopt.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\hash.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\ma_common.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\ma_dyncol.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\ma_secure.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysqld_error.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql_com.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql_io.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql_mm.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql_priv.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql_version.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql_wireprotocol.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysys_err.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_alarm.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_base.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_config.h.in">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_dir.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_global.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_list.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_net.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_no_pthread.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_pthread.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_stmt.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\my_sys.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\m_ctype.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\m_string.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\sha1.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\thr_alarm.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\violite.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql">
+      <UniqueIdentifier>{CE940AD4-9433-44FF-8352-B88058E7290C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql\client_plugin.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql\plugin_auth.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql\plugin_auth_common.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\include\mysql</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\lib">
+      <UniqueIdentifier>{672610DB-330D-4B4B-90EB-F74F11B4DEF7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\lib\mariadbclient.lib">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C\lib</Filter>
+    </None>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit">
+      <UniqueIdentifier>{C670833F-1382-4957-AFE1-6EAD35D95D5F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include">
+      <UniqueIdentifier>{94D44EFF-824F-4F6C-ADB7-AD8D22C98F17}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\config-win.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\dbug.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\errmsg.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\getopt.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\hash.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\ma_common.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\ma_dyncol.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\ma_secure.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysqld_error.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql_com.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql_io.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql_mm.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql_priv.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql_version.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql_wireprotocol.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysys_err.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_alarm.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_base.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_config.h.in">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_dir.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_global.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_list.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_net.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_no_pthread.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_pthread.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_stmt.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\my_sys.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\m_ctype.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\m_string.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\sha1.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\thr_alarm.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\violite.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql">
+      <UniqueIdentifier>{2CB49739-C77E-4BA6-BB3B-65E3BBCD68BA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql\client_plugin.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql\plugin_auth.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql\plugin_auth_common.h">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\include\mysql</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\lib">
+      <UniqueIdentifier>{B1945032-1EDC-4398-98A0-F686E8B798BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\lib\mariadbclient.lib">
+      <Filter>Plugins\MysqlDBUnrealengine4.26-main\Source\ThirdParty\MariaDBConnectorLibs\MariaDB_Connector_C_64-bit\lib</Filter>
+    </None>
+    <Filter Include="Source\Campus3dMap">
+      <UniqueIdentifier>{BB736EF1-F8D3-43D6-8B1B-1167B97C56A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Campus3dMap\Campus3dMap.Build.cs">
+      <Filter>Source\Campus3dMap</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Campus3dMap\Campus3dMap.cpp">
+      <Filter>Source\Campus3dMap</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Campus3dMap\Campus3dMap.h">
+      <Filter>Source\Campus3dMap</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Campus3dMap\TrialClass.cpp">
+      <Filter>Source\Campus3dMap</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Campus3dMap\TrialClass.h">
+      <Filter>Source\Campus3dMap</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

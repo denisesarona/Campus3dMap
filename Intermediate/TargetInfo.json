@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Campus3dMap",
+			"Path": "C:\\Unreal Projects\\Campus3dMap\\Source\\Campus3dMap.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Campus3dMapEditor",
+			"Path": "C:\\Unreal Projects\\Campus3dMap\\Source\\Campus3dMapEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
