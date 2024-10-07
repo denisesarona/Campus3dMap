@@ -786,3 +786,161 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.07-12.52.18:847][ 67]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.07-12.52.18:847][ 67]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
 [2024.10.07-12.52.18:847][ 67]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.07-12.56.12:612][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:612][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:612][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:612][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:613][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:613][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:613][795]LoadErrors: Failed to load /Game/Widgets/DepartmentButton.Default__DepartmentButton_C Referenced by Default__DepartmentButton_C
+[2024.10.07-12.56.12:613][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:613][795]LoadErrors: Failed to load /Game/Widgets/DepartmentButton.DepartmentButton Referenced by DepartmentButton
+[2024.10.07-12.56.12:613][795]LogLinker: Warning: [AssetLog] C:\Unreal Projects\Campus3dMap\Content\UserInterface\DepartmentButton.uasset: Failed to load '/Game/Widgets/DepartmentButton': Can't find file.
+[2024.10.07-12.56.12:613][795]LoadErrors: Failed to load /Game/Widgets/DepartmentButton.DepartmentButton_C Referenced by DepartmentButton_C
+[2024.10.07-12.56.12:664][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.07-12.56.12:851][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.07-12.56.12:857][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.07-12.56.12:863][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.10.07-12.56.12:885][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.07-12.56.12:890][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.10.07-12.56.24:512][575]LogAssetTools: Warning: Failed to import 'C:\Unreal Projects\CampusNavigation\Content\UserInterface\AboutUsPage.uasset'. Unknown extension 'uasset'.
+[2024.10.07-12.57.15:213][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.07-12.57.15:219][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.07-12.57.15:285][215]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevelC1F58B514090BB68CF723BB119E71888.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap'
+[2024.10.07-12.57.15:291][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2024.10.07-12.57.15:405][215]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel_BuiltData2634DF324BDE1C7B2C9D70B3B13327BB.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset'
+[2024.10.07-12.57.15:425][215]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.07-12.57.15:425][215]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2024.10.07-12.57.15:425][215]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.07-12.58.43:486][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-12.58.43:487][395]PIE: New page: PIE session: MainLevel (Oct 8, 2024, 4:58:43 AM)
+[2024.10.07-12.58.43:489][395]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.10.07-12.58.43:490][395]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.10.07-12.58.43:490][395]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2024.10.07-12.58.43:505][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014041s)
+[2024.10.07-12.58.43:506][395]LogAIModule: Creating AISystem for world MainLevel
+[2024.10.07-12.58.43:506][395]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2024.10.07-12.58.43:506][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.015398s)
+[2024.10.07-12.58.43:512][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.07-12.58.43:513][395]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-12.58.43:513][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-12.58.43:513][395]LogAudio: Display: Using built-in audio occlusion.
+[2024.10.07-12.58.43:513][395]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-12.58.43:518][395]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-12.58.43:518][395]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-12.58.43:546][395]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.07-12.58.43:546][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-12.58.43:546][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-12.58.43:546][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-12.58.43:546][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-12.58.43:547][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-12.58.43:547][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-12.58.43:560][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-12.58.43:561][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-12.58.43:561][395]LogInit: FAudioDevice initialized.
+[2024.10.07-12.58.43:561][395]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2024.10.07-12.58.43:624][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-12.58.43:626][395]LogLoad: Game class is 'GameModeBase'
+[2024.10.07-12.58.43:631][395]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.10.07-20.58.43
+[2024.10.07-12.58.43:632][395]LogWorld: Bringing up level for play took: 0.004095
+[2024.10.07-12.58.43:632][395]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2024.10.07-12.58.43:641][395]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2024.10.07-12.58.43:658][395]LogBlueprintUserMessages: [MainLevel_C_0] Hello
+[2024.10.07-12.58.43:662][395]PIE: Server logged in
+[2024.10.07-12.58.43:664][395]PIE: Play in editor total start time 0.182 seconds.
+[2024.10.07-12.58.45:814][598]LogSlate: Window 'Campus3dMap Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.07-12.58.45:827][598]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2024.10.07-12.58.45:862][598]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-12.58.45:863][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-12.58.45:873][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-12.58.45:875][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-12.58.45:883][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.07-12.58.45:883][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-12.58.45:884][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-12.58.45:905][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.07-12.58.45:935][600]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.10.07-12.58.46:625][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.07-12.58.46:631][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.07-12.58.46:694][673]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevelFF2089C648B602A94A93F99ECCE188F3.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap'
+[2024.10.07-12.58.46:698][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2024.10.07-12.58.46:806][673]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel_BuiltData94DEC485410AE091BAB940A7FC60EDC9.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset'
+[2024.10.07-12.58.46:817][673]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.07-12.58.46:817][673]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2024.10.07-12.58.46:817][673]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.07-12.59.09:304][945]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2024.10.07-12.59.09:577][945]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2024.10.07-12.59.10:403][945]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.07-12.59.19:305][692]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.07-12.59.19:319][692]LogSlate: Window 'MainLevel' being destroyed
+[2024.10.07-12.59.19:321][692]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-12.59.19:321][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-12.59.24:664][192]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2024.10.07-12.59.46:434][ 88]LogSlate: Took 0.001208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.07-12.59.51:800][512]BlueprintLog: New page: Compile MainLevel
+[2024.10.07-12.59.51:840][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.10.07-12.59.51:873][512]LogSlate: Took 0.000837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.10.07-12.59.52:239][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.07-12.59.52:258][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.07-12.59.52:322][544]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel76699B684551C6A5011D97B6B790155E.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap'
+[2024.10.07-12.59.52:326][544]LogFileHelpers: Saving map 'MainLevel' took 0.087
+[2024.10.07-12.59.52:341][544]AssetCheck: New page: Asset Save: MainLevel
+[2024.10.07-12.59.52:341][544]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.07-12.59.53:030][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.10.07-12.59.53:039][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-12.59.53:039][611]PIE: New page: PIE session: MainLevel (Oct 8, 2024, 4:59:53 AM)
+[2024.10.07-12.59.53:039][611]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainLevel
+[2024.10.07-12.59.53:054][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014500s)
+[2024.10.07-12.59.53:054][611]LogAIModule: Creating AISystem for world MainLevel
+[2024.10.07-12.59.53:055][611]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2024.10.07-12.59.53:055][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainLevel.MainLevel to /Game/Level/UEDPIE_0_MainLevel.MainLevel (0.015677s)
+[2024.10.07-12.59.53:073][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.07-12.59.53:073][611]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.07-12.59.53:073][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-12.59.53:073][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-12.59.53:073][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-12.59.53:073][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-12.59.53:073][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-12.59.53:073][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-12.59.53:073][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-12.59.53:074][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-12.59.53:074][611]LogAudio: Display: Using built-in audio occlusion.
+[2024.10.07-12.59.53:074][611]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-12.59.53:078][611]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-12.59.53:078][611]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-12.59.53:098][611]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.07-12.59.53:098][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-12.59.53:098][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-12.59.53:098][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-12.59.53:099][611]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-12.59.53:099][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-12.59.53:099][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-12.59.53:112][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-12.59.53:112][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-12.59.53:112][611]LogInit: FAudioDevice initialized.
+[2024.10.07-12.59.53:112][611]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2024.10.07-12.59.53:172][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-12.59.53:172][611]LogLoad: Game class is 'GameModeBase'
+[2024.10.07-12.59.53:177][611]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.10.07-20.59.53
+[2024.10.07-12.59.53:177][611]LogWorld: Bringing up level for play took: 0.004080
+[2024.10.07-12.59.53:177][611]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2024.10.07-12.59.53:183][611]LogBlueprintUserMessages: [MainLevel_C_1] Hello
+[2024.10.07-12.59.53:206][611]PIE: Server logged in
+[2024.10.07-12.59.53:207][611]PIE: Play in editor total start time 0.171 seconds.
+[2024.10.07-13.00.00:759][339]LogSlate: Window 'Campus3dMap Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.07-13.00.00:776][339]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainLevel
+[2024.10.07-13.00.00:821][339]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-13.00.00:823][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-13.00.00:832][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-13.00.00:838][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-13.00.00:862][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.07-13.00.00:864][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-13.00.00:865][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-13.00.00:888][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.10.07-13.00.00:908][340]LogPlayLevel: Display: Destroying online subsystem :Context_4
