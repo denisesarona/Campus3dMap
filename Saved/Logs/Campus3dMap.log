@@ -769,3 +769,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.07-12.48.15:550][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2024.10.07-12.48.15:648][  0]LogContentStreaming: Texture pool size now 400 MB
 [2024.10.07-12.48.15:911][  2]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.07-12.50.59:527][504]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.07-12.50.59:546][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.07-12.50.59:553][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.10.07-12.50.59:639][504]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevelDE9327E14DA9B355F26897BFCB46C72E.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap'
+[2024.10.07-12.50.59:648][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2024.10.07-12.50.59:797][504]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel_BuiltData2C4F58CF4F879DCEBCE1668DA84FF615.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset'
+[2024.10.07-12.50.59:812][504]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.07-12.50.59:812][504]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2024.10.07-12.50.59:812][504]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
+[2024.10.07-12.52.18:646][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.07-12.52.18:652][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.07-12.52.18:717][ 67]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel44FC14174750C9A17E859380073DF15B.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel.umap'
+[2024.10.07-12.52.18:723][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel_BuiltData" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset" SILENT=true
+[2024.10.07-12.52.18:836][ 67]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel_BuiltDataC5879955456F91FD96E50098785555D6.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Level/MainLevel_BuiltData.uasset'
+[2024.10.07-12.52.18:847][ 67]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.07-12.52.18:847][ 67]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/MainLevel_BuiltData.MainLevel_BuiltData
+[2024.10.07-12.52.18:847][ 67]LogContentValidation: Display: Validating World /Game/Level/MainLevel.MainLevel
