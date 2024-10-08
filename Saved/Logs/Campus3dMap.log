@@ -821,3 +821,494 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.08-12.03.35:624][631]LogContentValidation: Display: Validating UserDefinedStruct /Game/DataTables/S_BuildingInfo.S_BuildingInfo
 [2024.10.08-12.03.36:397][694]LogSlate: Window 'S_BuildingInfo' being destroyed
 [2024.10.08-12.03.36:409][694]LogSlate: Window 'S_BuildingInfo' being destroyed
+[2024.10.08-12.04.13:128][ 47]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_BuildingInfo.DT_BuildingInfo
+[2024.10.08-12.04.22:608][901]LogSlate: Window 'DT_BuildingInfo' being destroyed
+[2024.10.08-12.04.22:626][901]LogSlate: Window 'DT_BuildingInfo' being destroyed
+[2024.10.08-12.04.24:330][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2024.10.08-12.04.27:667][365]LogSlate: Took 0.015289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.08-12.04.29:505][492]LogActorFactory: Actor Factory created Cube
+[2024.10.08-12.04.29:688][503]LogActorFactory: Actor Factory created Cube
+[2024.10.08-12.04.36:847][ 48]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_BuildingInfo.DT_BuildingInfo
+[2024.10.08-12.06.12:379][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.08-12.06.12:395][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/Level/MainLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.10.08-12.06.12:568][193]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel_Auto11EE1A59E472601DA31DD4E8D1A0B9F93.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/Level/MainLevel_Auto1.umap'
+[2024.10.08-12.06.12:571][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MainLevel' took 0.209
+[2024.10.08-12.06.12:571][193]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.209
+[2024.10.08-12.06.12:572][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/CB_RetrieveComponent] ([1] browsable assets)...
+[2024.10.08-12.06.12:572][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/CB_RetrieveComponent]
+[2024.10.08-12.06.12:587][193]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/CB_RetrieveComponent_Auto1A75A664B47EE46157C8C98A598A5FBD3.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/Blueprint/CB_RetrieveComponent_Auto1.uasset'
+[2024.10.08-12.06.12:589][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_BuildingInfo] ([1] browsable assets)...
+[2024.10.08-12.06.12:589][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_BuildingInfo]
+[2024.10.08-12.06.12:590][193]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/DT_BuildingInfo_Auto15BE548AD406B88D27B3EB3BEF179CD56.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/DataTables/DT_BuildingInfo_Auto1.uasset'
+[2024.10.08-12.06.12:591][193]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.10.08-12.09.21:273][799]LogSlate: Window 'DT_BuildingInfo' being destroyed
+[2024.10.08-12.09.21:282][799]LogSlate: Window 'DT_BuildingInfo' being destroyed
+[2024.10.08-12.09.25:031][ 14]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.08-12.09.25:044][ 14]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.08-12.09.30:850][363]LogContentBrowser: Attempting asset rename: NewFolder -> DataAssets
+[2024.10.08-12.09.30:851][363]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.08-12.09.51:167][661]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.08-12.09.51:182][661]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.08-12.09.51:192][661]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.08-12.10.01:622][766]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.10.08-12.10.01:627][766]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.08-12.10.11:671][343]LogContentBrowser: Attempting asset rename: NewBlueprint -> DA_BuildingInfo
+[2024.10.08-12.10.11:711][343]LogMetaData: Removing '/Game/DataAssets/DA_BuildingInfo.SKEL_DA_BuildingInfo_C' ref from Metadata '/Game/DataAssets/NewBlueprint.PackageMetaData'
+[2024.10.08-12.10.11:711][343]LogMetaData: Removing '/Game/DataAssets/DA_BuildingInfo.DA_BuildingInfo_C' ref from Metadata '/Game/DataAssets/NewBlueprint.PackageMetaData'
+[2024.10.08-12.10.11:742][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataAssets/DA_BuildingInfo" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfo.uasset" SILENT=true
+[2024.10.08-12.10.11:744][343]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/DA_BuildingInfo7EFB39DA45EA7FA944BB74AB1653FBE0.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfo.uasset'
+[2024.10.08-12.10.11:814][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.08-12.10.11:832][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.08-12.10.11:837][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.10.08-12.10.11:868][343]AssetCheck: New page: Asset Save: DA_BuildingInfo
+[2024.10.08-12.10.11:868][343]LogContentValidation: Display: Validating Blueprint /Game/DataAssets/DA_BuildingInfo.DA_BuildingInfo
+[2024.10.08-12.10.21:853][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DataAssets/DA_BuildingInfo.DA_BuildingInfo
+[2024.10.08-12.10.22:269][516]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2024.10.08-12.10.23:169][516]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.08-12.11.16:923][635]BlueprintLog: New page: Compile DA_BuildingInfo
+[2024.10.08-12.11.16:951][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.10.08-12.11.16:971][635]LogSlate: Took 0.000661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.10.08-12.11.17:575][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataAssets/DA_BuildingInfo" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfo.uasset" SILENT=true
+[2024.10.08-12.11.17:578][664]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/DA_BuildingInfo17BD980F44A43011674904B5761708E4.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfo.uasset'
+[2024.10.08-12.11.17:598][664]AssetCheck: New page: Asset Save: DA_BuildingInfo
+[2024.10.08-12.11.17:598][664]LogContentValidation: Display: Validating Blueprint /Game/DataAssets/DA_BuildingInfo.DA_BuildingInfo
+[2024.10.08-12.11.34:059][905]LogSlate: Window 'DA_BuildingInfo' being destroyed
+[2024.10.08-12.11.34:089][905]LogSlate: Window 'DA_BuildingInfo' being destroyed
+[2024.10.08-12.11.34:094][905]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-12.11.34:094][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-12.11.47:022][248]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.10.08-12.11.50:891][248]LogSlate: Window 'Pick Data Asset Class' being destroyed
+[2024.10.08-12.11.50:904][248]LogContentBrowser: Deferred new asset file creation: NewDataAsset
+[2024.10.08-12.11.50:913][248]LogContentBrowser: Creating deferred item: NewDataAsset
+[2024.10.08-12.12.04:151][ 42]LogContentBrowser: Attempting asset rename: NewDataAsset -> DA_BuildingInfoDataAsset
+[2024.10.08-12.12.04:152][ 42]LogContentBrowser: End creating deferred item NewDataAsset
+[2024.10.08-12.12.14:352][169]LogAssetEditorSubsystem: Opening Asset editor for DA_BuildingInfo_C /Game/DataAssets/DA_BuildingInfoDataAsset.DA_BuildingInfoDataAsset
+[2024.10.08-12.13.03:286][488]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.13.03:301][488]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.13.05:510][613]LogAssetEditorSubsystem: Opening Asset editor for DA_BuildingInfo_C /Game/DataAssets/DA_BuildingInfoDataAsset.DA_BuildingInfoDataAsset
+[2024.10.08-12.13.06:779][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataAssets/DA_BuildingInfoDataAsset" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfoDataAsset.uasset" SILENT=true
+[2024.10.08-12.13.06:780][674]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/DA_BuildingInfoDataAsset65E0FB0F453045E389578E8E568AEFE7.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfoDataAsset.uasset'
+[2024.10.08-12.13.06:803][674]AssetCheck: New page: Asset Save: DA_BuildingInfoDataAsset
+[2024.10.08-12.13.06:803][674]LogContentValidation: Display: Validating DA_BuildingInfo_C /Game/DataAssets/DA_BuildingInfoDataAsset.DA_BuildingInfoDataAsset
+[2024.10.08-12.13.07:149][695]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.13.07:161][695]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.13.19:261][395]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.08-12.13.19:285][395]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.08-12.13.21:789][546]LogContentBrowser: Attempting asset rename: NewFolder -> Buildings
+[2024.10.08-12.13.21:790][546]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.08-12.13.42:296][785]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ASSETS/BUILDINGS/ROSARIO_SIDE/FBX/GuardHouseRight.fbx)
+[2024.10.08-12.13.42:331][785]LogFbx: Loading FBX Scene from ../../../../../../ASSETS/BUILDINGS/ROSARIO_SIDE/FBX/GuardHouseRight.fbx
+[2024.10.08-12.13.42:350][785]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.08-12.13.43:482][785]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.08-12.13.43:521][785]LogMaterial: Display: Missing cached shader map for material WindowBorder_001, compiling. 
+[2024.10.08-12.13.43:559][785]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2024.10.08-12.13.43:559][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2024.10.08-12.13.43:559][785]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2024.10.08-12.13.43:559][785]LogTexture: Display: Building textures: jalousiwindow_ncl1_1 (BGRA8, 150X151)
+[2024.10.08-12.13.43:610][785]LogMaterial: Display: Missing cached shader map for material jalousiwindow, compiling. 
+[2024.10.08-12.13.43:619][785]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2024.10.08-12.13.43:643][785]LogTexture: Display: Building textures: Doorknob (BGRA8, 1250X1250)
+[2024.10.08-12.13.43:711][785]LogMaterial: Display: Missing cached shader map for material Doorknob_001, compiling. 
+[2024.10.08-12.13.43:863][785]LogTexture: Display: Building textures: DarkFineWood (AutoDXT, 1000X1000)
+[2024.10.08-12.13.45:271][785]LogMaterial: Display: Missing cached shader map for material DarkFineWood_001, compiling. 
+[2024.10.08-12.13.45:342][785]LogMaterial: Display: Missing cached shader map for material GreenRoof_001, compiling. 
+[2024.10.08-12.13.45:367][785]LogTexture: Display: Building textures: roughWall (AutoDXT, 1024X1024)
+[2024.10.08-12.13.45:882][785]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2024.10.08-12.13.45:882][785]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2024.10.08-12.13.45:905][785]LogMaterial: Display: Missing cached shader map for material roughWall_001, compiling. 
+[2024.10.08-12.13.45:925][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2024.10.08-12.13.45:964][785]LogMaterial: Display: Missing cached shader map for material FrontColor, compiling. 
+[2024.10.08-12.13.45:974][785]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2024.10.08-12.13.45:987][785]LogTexture: Display: Building textures: concreteGround (BGRA8, 1350X755)
+[2024.10.08-12.13.46:040][785]LogMaterial: Display: Missing cached shader map for material concreteGround_001, compiling. 
+[2024.10.08-12.13.46:062][785]LogTexture: Display: Building textures: GreenRoofMetallic (AutoDXT, 1000X1000)
+[2024.10.08-12.13.46:300][785]LogMaterial: Display: Missing cached shader map for material GreenRoofMetallic_001, compiling. 
+[2024.10.08-12.13.46:312][785]LogFbx: Display: Triangulating static mesh GuardHouseRight
+[2024.10.08-12.13.46:446][785]LogStaticMesh: Building static mesh GuardHouseRight...
+[2024.10.08-12.13.46:536][785]LogStaticMesh: Built static mesh [0.09s] /Game/Materials/Buildings/GuardHouseRight.GuardHouseRight
+[2024.10.08-12.13.46:566][785]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'jalousiwindow' was renamed 'jalousiwindow_ncl1_1' 
+[2024.10.08-12.13.46:566][785]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.08-12.13.49:068][896]LogSlate: Window 'Message Log' being destroyed
+[2024.10.08-12.13.49:075][896]LogSlate: Window 'Message Log' being destroyed
+[2024.10.08-12.13.49:980][951]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2024.10.08-12.13.51:536][ 20]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2024.10.08-12.13.51:789][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2024.10.08-12.13.52:119][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2024.10.08-12.13.55:253][189]LogAssetEditorSubsystem: Opening Asset editor for DA_BuildingInfo_C /Game/DataAssets/DA_BuildingInfoDataAsset.DA_BuildingInfoDataAsset
+[2024.10.08-12.13.55:346][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2024.10.08-12.13.55:919][217]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2024.10.08-12.13.57:013][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2024.10.08-12.13.57:418][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2024.10.08-12.13.58:050][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2024.10.08-12.13.58:339][338]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2024.10.08-12.13.58:566][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.10.08-12.13.58:852][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.10.08-12.14.02:981][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataAssets/DA_BuildingInfoDataAsset" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfoDataAsset.uasset" SILENT=true
+[2024.10.08-12.14.02:982][588]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/DA_BuildingInfoDataAsset99327B6647F7EE5FA9746997B051E64B.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfoDataAsset.uasset'
+[2024.10.08-12.14.03:006][588]AssetCheck: New page: Asset Save: DA_BuildingInfoDataAsset
+[2024.10.08-12.14.03:006][588]LogContentValidation: Display: Validating DA_BuildingInfo_C /Game/DataAssets/DA_BuildingInfoDataAsset.DA_BuildingInfoDataAsset
+[2024.10.08-12.14.03:707][629]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.14.03:719][629]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.15.11:297][307]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.08-12.15.11:312][307]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.08-12.15.11:322][307]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.08-12.15.14:255][482]LogContentBrowser: Attempting asset rename: NewBlueprint -> Item
+[2024.10.08-12.15.14:259][482]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.08-12.15.23:775][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Item.Item
+[2024.10.08-12.15.24:330][548]LogRenderer: Reallocating scene render targets to support 972x416 Format 9 NumSamples 1 (Frame:1).
+[2024.10.08-12.16.03:016][ 78]BlueprintLog: New page: Compile Item
+[2024.10.08-12.16.03:053][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.10.08-12.16.03:598][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset" SILENT=true
+[2024.10.08-12.16.03:602][103]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/ItemC7AF80044DAB419F92C33A97A1F8C22F.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset'
+[2024.10.08-12.16.03:623][103]AssetCheck: New page: Asset Save: Item
+[2024.10.08-12.16.03:623][103]LogContentValidation: Display: Validating Blueprint /Game/Item.Item
+[2024.10.08-12.16.30:197][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.10.08-12.16.30:199][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainLevel" FILE="../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/Level/MainLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.10.08-12.16.30:324][293]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/MainLevel_Auto2395726FC452A9908083C988C78C2D7A8.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/Level/MainLevel_Auto2.umap'
+[2024.10.08-12.16.30:326][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MainLevel' took 0.154
+[2024.10.08-12.16.30:326][293]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.154
+[2024.10.08-12.16.30:326][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/CB_RetrieveComponent] ([1] browsable assets)...
+[2024.10.08-12.16.30:326][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/CB_RetrieveComponent]
+[2024.10.08-12.16.30:341][293]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/CB_RetrieveComponent_Auto2344EAFBB4B3346C57AEEA0B3FFB61CE4.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/Blueprint/CB_RetrieveComponent_Auto2.uasset'
+[2024.10.08-12.16.30:357][293]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Buildings/GuardHouseRight] ([1] browsable assets)...
+[2024.10.08-12.16.30:372][293]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Materials/Buildings/GuardHouseRight.GuardHouseRight]
+[2024.10.08-12.16.30:372][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Buildings/GuardHouseRight]
+[2024.10.08-12.16.30:402][293]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/GuardHouseRight_Auto28C7DF0B44257E746D3343591D43B6B4F.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Saved/Autosaves/Game/Materials/Buildings/GuardHouseRight_Auto2.uasset'
+[2024.10.08-12.16.30:403][293]LogFileHelpers: Auto-saving content packages took 0.077
+[2024.10.08-12.18.48:970][ 85]BlueprintLog: New page: Compile Item
+[2024.10.08-12.18.48:973][ 85]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_3:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.18.49:002][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.10.08-12.18.49:004][ 85]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_3:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.18.49:008][ 85]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_3:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.18.49:424][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset" SILENT=true
+[2024.10.08-12.18.49:432][108]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/Item3CD976184D1D09CE4B40DF9CE6DB9687.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset'
+[2024.10.08-12.18.49:459][108]AssetCheck: New page: Asset Save: Item
+[2024.10.08-12.18.49:459][108]LogContentValidation: Display: Validating Blueprint /Game/Item.Item
+[2024.10.08-12.19.04:971][345]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.19.04:986][345]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.19.04:990][345]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-12.19.04:990][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-12.19.18:006][889]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ASSETS/BUILDINGS/ROSARIO_SIDE/FBX/GuardHouseLeft.fbx)
+[2024.10.08-12.19.18:031][889]LogFbx: Loading FBX Scene from ../../../../../../ASSETS/BUILDINGS/ROSARIO_SIDE/FBX/GuardHouseLeft.fbx
+[2024.10.08-12.19.18:081][889]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.08-12.19.19:197][889]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.08-12.19.19:222][889]LogMaterial: Display: Missing cached shader map for material bldgwallnoBump_001, compiling. 
+[2024.10.08-12.19.19:234][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2024.10.08-12.19.19:234][889]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2024.10.08-12.19.19:234][889]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2024.10.08-12.19.19:287][889]LogMaterial: Display: Missing cached shader map for material whitewallNoBump_001, compiling. 
+[2024.10.08-12.19.19:296][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2024.10.08-12.19.19:356][889]LogMaterial: Display: Missing cached shader map for material alulod_001, compiling. 
+[2024.10.08-12.19.19:376][889]LogTexture: Display: Building textures: PaleYellowWall1 (AutoDXT, 1024X1024)
+[2024.10.08-12.19.19:834][889]LogMaterial: Display: Missing cached shader map for material PaleYellowWall1_001, compiling. 
+[2024.10.08-12.19.19:901][889]LogMaterial: Display: Missing cached shader map for material FrontColor_001, compiling. 
+[2024.10.08-12.19.19:921][889]LogTexture: Display: Building textures: GreenRoofMetallic2 (AutoDXT, 1000X1000)
+[2024.10.08-12.19.20:151][889]LogMaterial: Display: Missing cached shader map for material GreenRoofMetallic2_001, compiling. 
+[2024.10.08-12.19.20:163][889]LogFbx: Display: Triangulating static mesh GuardHouseLeft
+[2024.10.08-12.19.21:069][889]LogStaticMesh: Building static mesh GuardHouseLeft...
+[2024.10.08-12.19.21:357][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2024.10.08-12.19.21:357][889]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2024.10.08-12.19.21:357][889]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2024.10.08-12.19.25:374][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2024.10.08-12.19.25:374][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2024.10.08-12.19.25:374][889]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.10.08-12.19.25:374][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2024.10.08-12.19.25:568][889]LogStaticMesh: Built static mesh [4.50s] /Game/Materials/Buildings/GuardHouseLeft.GuardHouseLeft
+[2024.10.08-12.19.25:768][889]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2024.10.08-12.19.25:768][889]LogStaticMesh: Warning: GuardHouseLeft has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.10.08-12.19.25:768][889]LogStaticMesh: Warning: GuardHouseLeft has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.10.08-12.19.25:971][889]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'jalousiwindow' was renamed 'jalousiwindow_ncl1_1' 
+[2024.10.08-12.19.25:971][889]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.08-12.19.25:971][889]FBXImport: Warning: GuardHouseLeft has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.10.08-12.19.25:971][889]FBXImport: Warning: GuardHouseLeft has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.10.08-12.19.26:629][897]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2024.10.08-12.19.26:629][897]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2024.10.08-12.19.26:695][901]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.10.08-12.19.27:792][966]LogSlate: Window 'Message Log' being destroyed
+[2024.10.08-12.19.27:799][966]LogSlate: Window 'Message Log' being destroyed
+[2024.10.08-12.19.36:191][446]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:191][446]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:192][446]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:192][446]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:199][446]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:208][446]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:218][447]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:234][448]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:250][449]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:282][450]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:285][450]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:297][450]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:305][451]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:321][452]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:338][453]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:354][454]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.36:371][455]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.37:182][503]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_C_1
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.37:183][503]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.37:188][503]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.37:189][503]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.40:288][686]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.40:312][688]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.40:328][689]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.40:361][691]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.40:811][718]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.44:426][930]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_2
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.49:398][217]Cmd: DELETE
+[2024.10.08-12.19.49:398][217]Cmd: ACTOR DELETE
+[2024.10.08-12.19.49:419][217]LogEditorActor: Deleted Actor: Item_C
+[2024.10.08-12.19.49:439][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.10.08-12.19.49:445][217]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.10.08-12.19.50:557][282]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Item.Item
+[2024.10.08-12.19.50:965][282]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.52:299][358]BlueprintLog: New page: Compile Item
+[2024.10.08-12.19.52:305][358]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.52:333][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.10.08-12.19.52:334][358]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.52:341][358]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.52:907][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset" SILENT=true
+[2024.10.08-12.19.52:914][387]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/Item1486C3DC495CEBE2996DF8B4699E5D49.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset'
+[2024.10.08-12.19.52:936][387]AssetCheck: New page: Asset Save: Item
+[2024.10.08-12.19.52:936][387]LogContentValidation: Display: Validating Blueprint /Game/Item.Item
+[2024.10.08-12.19.55:666][544]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.19.55:667][544]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.00:201][810]BlueprintLog: New page: Compile Item
+[2024.10.08-12.20.00:209][810]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.00:237][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.10.08-12.20.00:239][810]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.00:245][810]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_4:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.00:677][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset" SILENT=true
+[2024.10.08-12.20.00:683][832]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/ItemF7E17EAC4E1B035FAD7E1EB6372A331E.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset'
+[2024.10.08-12.20.00:732][832]AssetCheck: New page: Asset Save: Item
+[2024.10.08-12.20.00:732][832]LogContentValidation: Display: Validating Blueprint /Game/Item.Item
+[2024.10.08-12.20.01:172][857]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.20.01:180][857]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.20.01:183][857]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-12.20.01:183][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-12.20.02:491][925]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Item.Item
+[2024.10.08-12.20.02:889][925]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_5:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.04:422][  9]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.20.04:435][  9]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.20.04:437][  9]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-12.20.04:438][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-12.20.05:373][ 58]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_C_3
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.05:705][ 75]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_C_4
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.05:706][ 75]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_5
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.05:713][ 75]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_5
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.05:714][ 75]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_5
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.06:547][124]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_5
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.06:580][126]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_5
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.06:631][129]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_5
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.07:113][158]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_5
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.14:522][595]Cmd: DELETE
+[2024.10.08-12.20.14:522][595]Cmd: ACTOR DELETE
+[2024.10.08-12.20.14:525][595]LogEditorActor: Deleted Actor: Item_C
+[2024.10.08-12.20.14:545][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.08-12.20.14:547][595]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.10.08-12.20.19:055][656]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_C_6
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.19:205][662]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_C_7
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.19:205][662]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_8
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.19:212][662]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_8
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.19:212][662]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Game/Level/MainLevel.MainLevel:PersistentLevel.Item_8
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.20.22:270][827]Cmd: DELETE
+[2024.10.08-12.20.22:270][827]Cmd: ACTOR DELETE
+[2024.10.08-12.20.22:274][827]LogEditorActor: Deleted Actor: Item_C
+[2024.10.08-12.20.22:293][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.10.08-12.20.22:294][827]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.10.08-12.20.52:592][ 50]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Item.Item
+[2024.10.08-12.20.53:191][ 50]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.21.19:819][142]BlueprintLog: New page: Compile Item
+[2024.10.08-12.21.19:822][142]LogScript: Warning: Accessed None trying to read property Data
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_0
+	Function /Game/Item.Item_C:UserConstructionScript:0047
+[2024.10.08-12.21.19:853][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.10.08-12.21.20:205][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset" SILENT=true
+[2024.10.08-12.21.20:216][158]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/Item28B041AB4B96E637D171D48986511299.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset'
+[2024.10.08-12.21.20:239][158]AssetCheck: New page: Asset Save: Item
+[2024.10.08-12.21.20:239][158]LogContentValidation: Display: Validating Blueprint /Game/Item.Item
+[2024.10.08-12.21.44:771][302]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.21.44:784][302]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.21.44:787][302]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-12.21.44:787][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-12.21.47:788][474]LogAssetEditorSubsystem: Opening Asset editor for DA_BuildingInfo_C /Game/DataAssets/DA_BuildingInfoDataAsset.DA_BuildingInfoDataAsset
+[2024.10.08-12.21.50:571][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataAssets/DA_BuildingInfoDataAsset" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfoDataAsset.uasset" SILENT=true
+[2024.10.08-12.21.50:574][612]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/DA_BuildingInfoDataAsset6B22703542AB2C6051D4B48CB3254221.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/DA_BuildingInfoDataAsset.uasset'
+[2024.10.08-12.21.50:599][612]AssetCheck: New page: Asset Save: DA_BuildingInfoDataAsset
+[2024.10.08-12.21.50:599][612]LogContentValidation: Display: Validating DA_BuildingInfo_C /Game/DataAssets/DA_BuildingInfoDataAsset.DA_BuildingInfoDataAsset
+[2024.10.08-12.21.54:004][815]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.21.54:017][815]LogSlate: Window 'DA_BuildingInfoDataAsset' being destroyed
+[2024.10.08-12.22.05:099][455]LogContentBrowser: Attempting asset rename: DA_BuildingInfoDataAsset -> GuardHouseDA
+[2024.10.08-12.22.05:215][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataAssets/GuardHouseDA" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/GuardHouseDA.uasset" SILENT=true
+[2024.10.08-12.22.05:217][455]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/GuardHouseDA092ADE9F4D5F4DC31407FDB5DEF1E8B7.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/GuardHouseDA.uasset'
+[2024.10.08-12.22.05:340][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.10.08-12.22.05:373][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.08-12.22.05:389][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.10.08-12.22.05:432][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset" SILENT=true
+[2024.10.08-12.22.05:442][455]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/Item88622716441B8F44A7A105A64FBA8F47.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset'
+[2024.10.08-12.22.05:511][455]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.08-12.22.05:511][455]LogContentValidation: Display: Validating Blueprint /Game/Item.Item
+[2024.10.08-12.22.05:512][455]LogContentValidation: Display: Validating DA_BuildingInfo_C /Game/DataAssets/GuardHouseDA.GuardHouseDA
+[2024.10.08-12.22.07:765][574]LogContentBrowser: Deferred new asset file creation: GuardHouseDA1
+[2024.10.08-12.22.07:785][574]LogContentBrowser: Creating deferred item: GuardHouseDA1
+[2024.10.08-12.22.12:808][876]LogContentBrowser: Attempting asset rename: GuardHouseDA1 -> GuardHouseLeftDA
+[2024.10.08-12.22.12:810][876]LogContentBrowser: End creating deferred item GuardHouseDA1
+[2024.10.08-12.22.13:588][921]LogAssetEditorSubsystem: Opening Asset editor for DA_BuildingInfo_C /Game/DataAssets/GuardHouseLeftDA.GuardHouseLeftDA
+[2024.10.08-12.22.16:707][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DataAssets/GuardHouseLeftDA" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/GuardHouseLeftDA.uasset" SILENT=true
+[2024.10.08-12.22.16:709][ 73]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/GuardHouseLeftDA33E9DDBE4AF61BE0DA2C0EAA8EFB4A74.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/DataAssets/GuardHouseLeftDA.uasset'
+[2024.10.08-12.22.16:731][ 73]AssetCheck: New page: Asset Save: GuardHouseLeftDA
+[2024.10.08-12.22.16:731][ 73]LogContentValidation: Display: Validating DA_BuildingInfo_C /Game/DataAssets/GuardHouseLeftDA.GuardHouseLeftDA
+[2024.10.08-12.22.17:445][113]LogSlate: Window 'GuardHouseLeftDA' being destroyed
+[2024.10.08-12.22.17:452][113]LogSlate: Window 'GuardHouseLeftDA' being destroyed
+[2024.10.08-12.22.24:393][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Item.Item
+[2024.10.08-12.24.00:250][833]BlueprintLog: New page: Compile Item
+[2024.10.08-12.24.00:285][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.10.08-12.24.00:686][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Item" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset" SILENT=true
+[2024.10.08-12.24.00:692][854]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/Item25729EB54FA785CBFE0BD0BDB6488EDB.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/Item.uasset'
+[2024.10.08-12.24.00:713][854]AssetCheck: New page: Asset Save: Item
+[2024.10.08-12.24.00:713][854]LogContentValidation: Display: Validating Blueprint /Game/Item.Item
+[2024.10.08-12.24.02:617][967]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.24.02:623][967]LogSlate: Window 'Item' being destroyed
+[2024.10.08-12.24.02:626][967]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-12.24.02:626][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-12.24.07:115][206]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.10.08-12.24.11:920][461]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2024.10.08-12.24.22:298][ 62]LogEditorViewport: Clicking on Actor (LMB): Item_C (Item)
+[2024.10.08-12.24.23:219][115]Cmd: DELETE
+[2024.10.08-12.24.23:219][115]Cmd: ACTOR DELETE
+[2024.10.08-12.24.23:222][115]LogEditorActor: Deleted Actor: Item_C
+[2024.10.08-12.24.23:246][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.10.08-12.24.23:252][115]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.10.08-12.24.23:720][143]LogEditorViewport: Clicking on Actor (LMB): Item_C (Item2)
+[2024.10.08-12.24.23:842][148]Cmd: DELETE
+[2024.10.08-12.24.23:842][148]Cmd: ACTOR DELETE
+[2024.10.08-12.24.23:845][148]LogEditorActor: Deleted Actor: Item_C
+[2024.10.08-12.24.23:863][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.10.08-12.24.23:864][148]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.08-12.24.33:307][702]LogContentBrowser: Attempting asset rename: Item -> BuildingModel
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.BuildingModel:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.SKEL_BuildingModel_C' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.BuildingModel_C' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.BuildingModel:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.BuildingModel:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.BuildingModel:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.BuildingModel_C:UserConstructionScript' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.SKEL_BuildingModel_C:UserConstructionScript' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.SKEL_BuildingModel_C:ReceiveTick' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.SKEL_BuildingModel_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:346][702]LogMetaData: Removing '/Game/BuildingModel.SKEL_BuildingModel_C:ReceiveBeginPlay' ref from Metadata '/Game/Item.PackageMetaData'
+[2024.10.08-12.24.33:387][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BuildingModel" FILE="../../../../../../Unreal Projects/Campus3dMap/Content/BuildingModel.uasset" SILENT=true
+[2024.10.08-12.24.33:395][702]LogSavePackage: Moving '../../../../../../Unreal Projects/Campus3dMap/Saved/BuildingModel4D178A6C4D6E6DE6F9C85AA8E74BE5F7.tmp' to '../../../../../../Unreal Projects/Campus3dMap/Content/BuildingModel.uasset'
+[2024.10.08-12.24.33:510][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.10.08-12.24.33:544][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.08-12.24.33:560][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.08-12.24.33:600][702]AssetCheck: New page: Asset Save: BuildingModel
+[2024.10.08-12.24.33:600][702]LogContentValidation: Display: Validating Blueprint /Game/BuildingModel.BuildingModel
